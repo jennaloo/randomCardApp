@@ -1,3 +1,7 @@
+* {
+    transition: 0.5s ease;
+}
+
 .btn {
     background-color: #3A7AB5;
     color: white;
